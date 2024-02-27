@@ -1,2 +1,2 @@
 # HangGame
-<img src="image/HangGame_Pic" alt="Pic">  
+<img src="image/HangGame_Pic.png" alt="Pic">  
